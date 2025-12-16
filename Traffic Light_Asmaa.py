@@ -1,14 +1,3 @@
-# University of Toronto
-# Faculty of Information
-# Bachelor of Information Program
-# INF 452H - Design Studio V: Coding
-#
-# Student Name: <Asmaa Bana>
-# Student Number: <1012819611>
-# Supervisor: Dr. Maher Elshakankiri
-#
-#
-# Tutorial 3, Problem 1
 # Purpose: Traffic Light
 # Date Created: <2025/11/06>
 # Date Modified: <d2025/11/06>
